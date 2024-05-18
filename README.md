@@ -1,8 +1,8 @@
 How To run the code:
 
-git clone <gitrepo I will share you later.>
+git clone here : https://github.com/wai72/collaberaCodeTask.git
 
-cd <myproject>
+cd collaberaCodeTask
 
 run: react-native run-ios (for ios)
      react-native run-ios (for android)
